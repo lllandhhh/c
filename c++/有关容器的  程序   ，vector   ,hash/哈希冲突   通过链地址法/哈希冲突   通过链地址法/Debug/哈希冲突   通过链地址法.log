@@ -1,0 +1,31 @@
+﻿  源.cpp
+f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+  f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(113): note: 编译类 模板 成员函数“void list_hash_table<int,list_hash<T>>::show(void)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(151): note: 参见对正在编译的函数 模板 实例化“void list_hash_table<int,list_hash<T>>::show(void)”的引用
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(145): note: 参见对正在编译的类 模板 实例化“list_hash_table<int,list_hash<T>>”的引用
+          with
+          [
+              T=int
+          ]
+f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(95): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(92): note: 编译类 模板 成员函数“int list_hash_table<int,list_hash<T>>::getPrime(int)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\哈希冲突   通过链地址法\源.cpp(67): note: 参见对正在编译的函数 模板 实例化“int list_hash_table<int,list_hash<T>>::getPrime(int)”的引用
+          with
+          [
+              T=int
+          ]
+  哈希冲突   通过链地址法.vcxproj -> F:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\Debug\哈希冲突   通过链地址法.exe
+  哈希冲突   通过链地址法.vcxproj -> F:\图论程序\c++\有关容器的  程序   ，vector   ,hash\哈希冲突   通过链地址法\Debug\哈希冲突   通过链地址法.pdb (Partial PDB)

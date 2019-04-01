@@ -1,0 +1,8 @@
+﻿  源.cpp
+f:\图论程序\project7\project7\源.cpp(7): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“char **”
+  f:\图论程序\project7\project7\源.cpp(7): note: 此参数由转换说明符使用
+f:\图论程序\project7\project7\源.cpp(7): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\图论程序\project7\project7\源.cpp(7): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\图论程序\project7\project7\源.cpp(7): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  f:\图论程序\project7\project7\源.cpp(7): note: 此参数用作缓冲区大小
+LINK : fatal error LNK1168: 无法打开 F:\图论程序\Project7\Debug\Project7.exe 进行写入

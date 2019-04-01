@@ -1,0 +1,5 @@
+﻿  系统的 容器.cpp
+f:\图论程序\c++\杂项\迭代器  vector\迭代器  vector\系统的 容器.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+f:\图论程序\c++\杂项\迭代器  vector\迭代器  vector\系统的 容器.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  迭代器  vector.vcxproj -> F:\图论程序\c++\杂项\迭代器  vector\Debug\迭代器  vector.exe
+  迭代器  vector.vcxproj -> F:\图论程序\c++\杂项\迭代器  vector\Debug\迭代器  vector.pdb (Partial PDB)

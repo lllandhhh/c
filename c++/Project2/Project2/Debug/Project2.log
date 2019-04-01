@@ -1,0 +1,7 @@
+﻿  源.cpp
+f:\图论程序\c++\project2\project2\源.cpp(9): error C2440: “return”: 无法从“int *const ”转换为“int *&”
+  f:\图论程序\c++\project2\project2\源.cpp(9): note: 转换丢失限定符
+f:\图论程序\c++\project2\project2\源.cpp(20): error C2440: “初始化”: 无法从“int *”转换为“const int *&”
+  f:\图论程序\c++\project2\project2\源.cpp(20): note: 转换丢失限定符
+f:\图论程序\c++\project2\project2\源.cpp(24): error C2440: “初始化”: 无法从“int *”转换为“const int *&”
+  f:\图论程序\c++\project2\project2\源.cpp(24): note: 转换丢失限定符

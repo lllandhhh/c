@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\图论程序\c++\图书馆管理系统\图书馆管理系统\源.cpp(199): warning C4101: “choice”: 未引用的局部变量
+  图书馆管理系统.vcxproj -> F:\图论程序\c++\图书馆管理系统\Debug\图书馆管理系统.exe
+  图书馆管理系统.vcxproj -> F:\图论程序\c++\图书馆管理系统\Debug\图书馆管理系统.pdb (Partial PDB)

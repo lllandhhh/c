@@ -1,0 +1,20 @@
+﻿  源.cpp
+f:\图论程序\c++\project3\project3\源.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+f:\图论程序\c++\project3\project3\源.cpp(122): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  f:\图论程序\c++\project3\project3\源.cpp(119): note: 编译类 模板 成员函数“int CHashTable<int,CHash<T>>::getPrime(int)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\project3\project3\源.cpp(148): note: 参见对正在编译的函数 模板 实例化“int CHashTable<int,CHash<T>>::getPrime(int)”的引用
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\project3\project3\源.cpp(193): note: 参见对正在编译的类 模板 实例化“CHashTable<int,CHash<T>>”的引用
+          with
+          [
+              T=int
+          ]
+  Project3.vcxproj -> F:\图论程序\c++\Project3\Debug\Project3.exe
+  Project3.vcxproj -> F:\图论程序\c++\Project3\Debug\Project3.pdb (Partial PDB)

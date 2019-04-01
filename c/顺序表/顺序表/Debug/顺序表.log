@@ -1,0 +1,8 @@
+﻿  text.cpp
+f:\图论程序\顺序表\顺序表\text.cpp(5): warning C4101: “sq”: 未引用的局部变量
+  sqlist.cpp
+  正在生成代码...
+f:\图论程序\顺序表\顺序表\sqlist.cpp(59): error C4716: “GetElem”: 必须返回一个值
+f:\图论程序\顺序表\顺序表\sqlist.cpp(37): warning C4715: “Search”: 不是所有的控件路径都返回值
+f:\图论程序\顺序表\顺序表\sqlist.cpp(24): warning C4715: “Insert”: 不是所有的控件路径都返回值
+f:\图论程序\顺序表\顺序表\sqlist.cpp(55): error C4716: “Delete”: 必须返回一个值

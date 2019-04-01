@@ -1,0 +1,64 @@
+﻿  源.cpp
+f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(135): note: 编译类 模板 成员函数“void CHashTable<int,CHash<T>>::delete_hash_number(const T &)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(183): note: 参见对正在编译的函数 模板 实例化“void CHashTable<int,CHash<T>>::delete_hash_number(const T &)”的引用
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(174): note: 参见对正在编译的类 模板 实例化“CHashTable<int,CHash<T>>”的引用
+          with
+          [
+              T=int
+          ]
+f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(117): note: 编译类 模板 成员函数“void CHashTable<int,CHash<T>>::find_hash_number(const T &)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(188): note: 参见对正在编译的函数 模板 实例化“void CHashTable<int,CHash<T>>::find_hash_number(const T &)”的引用
+          with
+          [
+              T=int
+          ]
+f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(110): note: 编译类 模板 成员函数“void CHashTable<int,CHash<T>>::show(void)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(181): note: 参见对正在编译的函数 模板 实例化“void CHashTable<int,CHash<T>>::show(void)”的引用
+          with
+          [
+              T=int
+          ]
+f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(82): note: 编译类 模板 成员函数“void CHashTable<int,CHash<T>>::hash_add(void)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(64): note: 参见对正在编译的函数 模板 实例化“void CHashTable<int,CHash<T>>::hash_add(void)”的引用
+          with
+          [
+              T=int
+          ]
+f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(72): note: 编译类 模板 成员函数“int CHashTable<int,CHash<T>>::get_prime_number(void)”时
+          with
+          [
+              T=int
+          ]
+  f:\图论程序\c++\杂项\哈希表实现通过桶\哈希表实现通过桶\源.cpp(88): note: 参见对正在编译的函数 模板 实例化“int CHashTable<int,CHash<T>>::get_prime_number(void)”的引用
+          with
+          [
+              T=int
+          ]
+  哈希表实现通过桶.vcxproj -> F:\图论程序\c++\杂项\哈希表实现通过桶\Debug\哈希表实现通过桶.exe
+  哈希表实现通过桶.vcxproj -> F:\图论程序\c++\杂项\哈希表实现通过桶\Debug\哈希表实现通过桶.pdb (Partial PDB)

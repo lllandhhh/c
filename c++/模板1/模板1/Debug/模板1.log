@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\图论程序\c++\模板1\模板1\源.cpp(59): warning C4715: “findValue<char *>”: 不是所有的控件路径都返回值
+  模板1.vcxproj -> F:\图论程序\c++\模板1\Debug\模板1.exe
+  模板1.vcxproj -> F:\图论程序\c++\模板1\Debug\模板1.pdb (Partial PDB)

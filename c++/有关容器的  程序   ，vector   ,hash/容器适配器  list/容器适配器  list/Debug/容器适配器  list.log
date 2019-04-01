@@ -1,0 +1,20 @@
+﻿  源.cpp
+f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(94): error C2805: 二进制“operator [”的参数太少
+  f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(103): note: 参见对正在编译的类 模板 实例化“CHashTable<T,HashType>”的引用
+f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(94): error C2333: “CHashTable<T,HashType>::operator []”: 函数声明中有错误；跳过函数体
+f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(108): error C2664: “void std::vector<std::list<int,std::allocator<_Ty>>,std::allocator<std::list<_Ty,std::allocator<_Ty>>>>::push_back(const std::list<_Ty,std::allocator<_Ty>> &)”: 无法将参数 1 从“int”转换为“std::list<int,std::allocator<_Ty>> &&”
+          with
+          [
+              _Ty=int
+          ]
+  f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(108): note: 原因如下: 无法从“int”转换为“std::list<int,std::allocator<_Ty>>”
+          with
+          [
+              _Ty=int
+          ]
+  f:\图论程序\c++\杂项\容器适配器  list\容器适配器  list\源.cpp(108): note: class“std::list<int,std::allocator<_Ty>>”的构造函数声明为“explicit”
+          with
+          [
+              _Ty=int
+          ]
